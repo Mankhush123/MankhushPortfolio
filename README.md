@@ -18,7 +18,7 @@ Database: (Optional, if applicable) MongoDB, MySQL, etc.
 Frameworks/Libraries: (Optional) React, Angular, Vue.js, Bootstrap, etc.
 Setup Instructions:
 
-Clone the repository to your local machine: git clone https://github.com/yourusername/MyPortfolio.git
+Clone the repository to your local machine: git clone https://github.com/Mankhush123/MankhushPortfolio.git
 Navigate to the project directory: cd MyPortfolio
 (If applicable) Install dependencies: npm install
 Customize the content:
